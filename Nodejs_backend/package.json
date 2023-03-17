@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_deal_platform",
+  "version": "1.0.0",
+  "description": "This is a deal platform backend in Nodejs-express.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaomingcom-cs/software-engineering.git"
+  },
+  "author": "xiaoming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaomingcom-cs/software-engineering/issues"
+  },
+  "homepage": "https://github.com/xiaomingcom-cs/software-engineering#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21"
+  }
+}
