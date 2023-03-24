@@ -6,9 +6,9 @@ the project of software-engineering course
 
 本项目分为一个前端项目和两个后端项目
 
-* 前端1：陆荣周待补充
+* 前端1：使用vue3+ts+elementplus+router+vuex+axios实现博客和交易平台前端界面以及前端网页请求
 * 后端1：Nodejs_backend:负责交易平台的后端接口
-* 后端2：潘云增待补充
+* 后端2：python实现搜索和推荐功能
 
 
 代码提交流程：
