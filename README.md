@@ -47,19 +47,6 @@ pojo分成了dto和model，model中是全的，dto只是部分功能，减少实
 - 2023-04-07: 发布第一版
 
 
-
-
-
-
-
-<<<<<<< Updated upstream
-* 前端1：使用vue3+ts+elementplus+router+vuex+axios实现博客和交易平台前端界面以及前端网页请求
-* 后端1：Nodejs_backend:负责交易平台的后端接口
-* 后端2：python实现搜索和推荐功能
-=======
->>>>>>> Stashed changes
-
-
 代码提交流程：
 * 将仓库fork到自己仓库中
 * 然后克隆到本地进行开发
