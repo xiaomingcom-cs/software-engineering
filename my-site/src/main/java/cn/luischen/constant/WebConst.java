@@ -5,9 +5,6 @@ import org.springframework.stereotype.Component;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by winterchen on 2018/4/29.
- */
 @Component
 public class WebConst {
 

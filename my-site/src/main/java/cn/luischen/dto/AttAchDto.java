@@ -1,8 +1,5 @@
 package cn.luischen.dto;
 
-/**
- * Created by winterchen on 2018/4/29.
- */
 public class AttAchDto extends BaseDto{
 
     /** 主键编号 */

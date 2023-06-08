@@ -7,8 +7,7 @@ import org.slf4j.LoggerFactory;
 import java.text.MessageFormat;
 
 /**
- * 统一异常类
- * Created by winterchen on 2018/4/20.
+ * 统一异常类.
  */
 public class BusinessException extends RuntimeException {
 

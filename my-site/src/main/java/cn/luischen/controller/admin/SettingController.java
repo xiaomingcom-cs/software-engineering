@@ -25,9 +25,7 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-/**
- * Created by winterchen on 2018/4/30.
- */
+
 @Api("系统设置")
 @Controller
 @RequestMapping("/admin/setting")

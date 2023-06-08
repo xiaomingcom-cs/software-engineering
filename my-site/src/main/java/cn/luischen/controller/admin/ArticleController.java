@@ -28,7 +28,6 @@ import java.util.List;
 
 /**
  * 文章管理
- * Created by winterchen on 2018/4/30.
  */
 @Api("文章管理")
 @Controller

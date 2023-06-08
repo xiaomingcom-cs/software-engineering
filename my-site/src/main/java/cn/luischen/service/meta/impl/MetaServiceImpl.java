@@ -24,9 +24,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by winterchen on 2018/4/29.
- */
 @Service
 @Transactional
 public class MetaServiceImpl implements MetaService {

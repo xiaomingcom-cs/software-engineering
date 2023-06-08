@@ -10,10 +10,7 @@ import org.springframework.stereotype.Component;
 import java.util.List;
 import java.util.Map;
 
-/**
- * 项目dao
- * Created by winterchen on 2018/4/29.
- */
+
 @Mapper
 @Component
 public interface MetaDao {

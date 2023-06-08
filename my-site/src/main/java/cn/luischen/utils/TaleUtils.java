@@ -31,9 +31,6 @@ import java.util.Properties;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * Created by winterchen on 2018/4/30.
- */
 public class TaleUtils {
 
 

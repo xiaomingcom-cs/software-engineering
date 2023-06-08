@@ -1,8 +1,5 @@
 package cn.luischen.constant;
 
-/**
- * Created by winterchen on 2018/4/29.
- */
 public interface ErrorConstant {
 
     interface Common {

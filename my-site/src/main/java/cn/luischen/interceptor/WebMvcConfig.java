@@ -9,7 +9,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
  * 向MVC中添加自定义组件
- * Created by winterchen on 2018/4/30.
  */
 @Component
 public class WebMvcConfig implements WebMvcConfigurer {

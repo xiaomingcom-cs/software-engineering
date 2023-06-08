@@ -2,7 +2,6 @@ package cn.luischen.dto;
 
 /**
  * 后台统计对象
- * Created by winterchen on 2018/4/30.
  */
 public class StatisticsDto {
 

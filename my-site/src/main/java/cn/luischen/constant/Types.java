@@ -1,8 +1,6 @@
 package cn.luischen.constant;
 
-/**
- * Created by winterchen on 2018/4/30.
- */
+
 public enum Types {
 
     TAG("tag"),

@@ -31,7 +31,6 @@ import java.io.IOException;
 
 /**
  * 附件控制器
- * Created by winterchen on 2018/4/30.
  */
 @Api("附件相关接口")
 @Controller

@@ -8,10 +8,7 @@ import org.springframework.stereotype.Component;
 
 import java.util.List;
 
-/**
- * 评论实体类
- * Created by winterchen on 2018/4/29.
- */
+
 @Mapper
 @Component
 public interface CommentDao {

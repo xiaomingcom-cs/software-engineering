@@ -5,9 +5,6 @@ import cn.luischen.model.OptionsDomain;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by winterchen on 2018/4/28.
- */
 public interface OptionService {
 
     /**

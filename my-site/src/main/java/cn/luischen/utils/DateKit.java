@@ -8,9 +8,6 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-/**
- * Created by Administrator on 2017/3/10 010.
- */
 public class DateKit {
 
 

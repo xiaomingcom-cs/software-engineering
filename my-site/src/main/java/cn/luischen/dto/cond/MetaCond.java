@@ -2,7 +2,6 @@ package cn.luischen.dto.cond;
 
 /**
  * meta查询条件
- * Created by winterchen on 2018/4/30.
  */
 public class MetaCond {
 

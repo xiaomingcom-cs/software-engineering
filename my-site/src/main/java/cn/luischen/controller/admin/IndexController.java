@@ -29,9 +29,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 import java.util.List;
 
-/**
- * Created by winterchen on 2018/4/30.
- */
 @Api("后台首页")
 @Controller("adminIndexController")
 @RequestMapping(value = "/admin")

@@ -5,7 +5,6 @@ import org.apache.commons.lang3.StringUtils;
 
 /**
  * 文章实体
- * Created by winterchen on 2018/4/29.
  */
 public class ContentDomain {
 

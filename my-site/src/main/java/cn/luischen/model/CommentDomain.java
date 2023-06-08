@@ -1,8 +1,6 @@
 package cn.luischen.model;
 
-/**
- * Created by winterchen on 2018/4/29.
- */
+
 public class CommentDomain {
 
     /**

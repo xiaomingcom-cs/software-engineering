@@ -17,7 +17,6 @@ import java.util.Map;
 
 /**
  * 网站配置服务层
- * Created by winterchen on 2018/4/28.
  */
 @Service
 public class OptionServiceImpl implements OptionService {

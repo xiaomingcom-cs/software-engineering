@@ -28,9 +28,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import java.io.IOException;
 
-/**
- * Created by winterchen on 2018/4/30.
- */
+
 @Api("登录相关接口")
 @Controller
 @RequestMapping(value = "/admin")

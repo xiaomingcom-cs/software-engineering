@@ -4,7 +4,6 @@ import cn.luischen.utils.TaleUtils;
 
 /**
  * 用户查找条件
- * Created by winterchen on 2018/4/30.
  */
 public class UserCond {
     private String username;

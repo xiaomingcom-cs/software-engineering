@@ -12,9 +12,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-/**
- * Created by winterchen on 2018/4/20.
- */
 @Service
 public class UserServiceImpl implements UserService {
 

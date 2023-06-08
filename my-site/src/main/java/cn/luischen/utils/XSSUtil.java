@@ -10,7 +10,6 @@ import java.util.regex.Pattern;
 /**
  * @author winterchen
  * @version 1.0
- * @date 2023/3/30 11:19
  * @description TODO
  **/
 public class XSSUtil {

@@ -20,10 +20,6 @@ import org.springframework.web.bind.annotation.*;
 
 import javax.servlet.http.HttpServletRequest;
 
-/**
- * 评论
- * Created by winterchen on 2018/4/30.
- */
 @Api("评论相关接口")
 @Controller
 @RequestMapping("/admin/comments")

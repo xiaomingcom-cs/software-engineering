@@ -2,7 +2,6 @@ package cn.luischen.model;
 
 /**
  * 网站配置项
- * Created by winterchen on 2018/4/28.
  */
 public class OptionsDomain {
 

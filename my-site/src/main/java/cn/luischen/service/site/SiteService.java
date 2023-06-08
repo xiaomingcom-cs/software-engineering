@@ -12,7 +12,6 @@ import java.util.List;
 
 /**
  * 站点服务
- * Created by winterchen on 2018/4/30.
  */
 public interface SiteService {
 
